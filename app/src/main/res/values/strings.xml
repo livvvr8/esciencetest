@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news_api_key">9e1fa195e0f043939da7d988411168fe</string>
+
+    <!--Common-->
+    <string name="dismiss">Dismiss</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="okay">Okay</string>
+    <string name="close">Close</string>
+
+    <!--Menu-->
+    <string name="menu_news">News</string>
+    <string name="menu_weather">Weather</string>
+
+    <!--Toast or Snack Bar Messages-->
+    <string name="network_detected_message">Network detected.</string>
+    <string name="no_network_connection_message">No network connection.</string>
+    <string name="please_turn_on_your_location">Please turn on your location.</string>
+
+    <!--Display Messages-->
+    <string name="no_news">No news.</string>
+    <string name="failed_to_retrieve_data">Failed to retrieve data.</string>
+
+    <!--Dialog Messages-->
+    <string name="confirm_exit_dialog_title">Confirm Exit</string>
+    <string name="confirm_exit_dialog_message">Are you sure you want to close the app?</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
